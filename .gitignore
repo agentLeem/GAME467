@@ -75,3 +75,6 @@ DerivedDataCache/*
 ProjectScam/Saved/Config/MacEditor/EditorPerProjectUserSettings.ini
 ProjectScam/Intermediate/CachedAssetRegistry_0.bin
 ProjectScam/Saved/Config/CrashReportClient/UECC-Mac-A44BE0C7DD420282071829A89022F6FE/CrashReportClient.ini
+*.log
+ProjectScam/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+ProjectScam/Saved/Autosaves/PackageRestoreData.json
