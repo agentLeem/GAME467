@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Chad/Documents/GitHub/GAME467/ProjectScam/Content/Assets/Sounds/Characters/Player_Sounds/FootstepsConcrete_1.uasset",
+				"C:/Users/Chad/Documents/GitHub/GAME467/ProjectScam/Content/Assets/Sounds/Characters/Player_Sounds/FootstepsGrass_1.uasset",
+				"C:/Users/Chad/Documents/GitHub/GAME467/ProjectScam/Content/Assets/Sounds/Characters/Player_Sounds/FootstepsGravel_1.uasset",
+				"C:/Users/Chad/Documents/GitHub/GAME467/ProjectScam/Content/Assets/Sounds/Characters/Player_Sounds/FootstepsWood_1.uasset",
+				"C:/Users/Chad/Documents/GitHub/GAME467/ProjectScam/Content/Assets/Sounds/Characters/NPC_Sounds/Male_enemy_grunt_damaged_1.uasset",
+				"C:/Users/Chad/Documents/GitHub/GAME467/ProjectScam/Content/Assets/Sounds/Characters/NPC_Sounds/Male_enemy_grunt_damaged_2.uasset",
+				"C:/Users/Chad/Documents/GitHub/GAME467/ProjectScam/Content/Assets/Sounds/Characters/NPC_Sounds/Male_enemy_grunt_damaged_3.uasset",
+				"C:/Users/Chad/Documents/GitHub/GAME467/ProjectScam/Content/Assets/Sounds/Characters/NPC_Sounds/Male_enemy_grunt_damaged_4.uasset",
+				"C:/Users/Chad/Documents/GitHub/GAME467/ProjectScam/Content/Assets/Sounds/Environment/medieval_ambience_1.uasset",
+				"C:/Users/Chad/Documents/GitHub/GAME467/ProjectScam/Content/Assets/Sounds/Environment/Park_ambiance_day_1.uasset",
+				"C:/Users/Chad/Documents/GitHub/GAME467/ProjectScam/Content/Assets/Sounds/Environment/Quiet_outside_ambiance_1.uasset",
 				"/Users/lastellm/Documents/GitHub/GAME467/ProjectScam/Content/StartContent/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset"
 			]
 		}
