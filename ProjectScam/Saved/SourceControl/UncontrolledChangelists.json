@@ -5,6 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Mike/Documents/GitHub/GAME467/ProjectScam/Content/Blueprints/Weapons/BP_WeaponMaster.uasset",
+				"C:/Users/Mike/Documents/GitHub/GAME467/ProjectScam/Content/Blueprints/Interactables/BP_Interactable.uasset",
+				"C:/Users/Mike/Documents/GitHub/GAME467/ProjectScam/Content/__ExternalActors__/StartContent/FirstPerson/Maps/FirstPersonMap/D/3U/VBJLC82UKEWX4VYU9H6UFT.uasset",
+				"C:/Users/Mike/Documents/GitHub/GAME467/ProjectScam/Content/Blueprints/Characters/BP_Player.uasset",
+				"C:/Users/Mike/Documents/GitHub/GAME467/ProjectScam/Content/__ExternalActors__/StartContent/FirstPerson/Maps/FirstPersonMap/0/B0/QD1KA7S0FPICOFAQH3W27H.uasset",
+				"C:/Users/Mike/Documents/GitHub/GAME467/ProjectScam/Content/__ExternalActors__/StartContent/FirstPerson/Maps/FirstPersonMap/4/0Y/WGKA7CWPJ6Z9SR7QST62F9.uasset",
+				"C:/Users/Mike/Documents/GitHub/GAME467/ProjectScam/Content/Data/Structures/S_WeaponData.uasset",
+				"C:/Users/Mike/Documents/GitHub/GAME467/ProjectScam/Content/Data/Structures/S_PlayerStats.uasset",
+				"C:/Users/Mike/Documents/GitHub/GAME467/ProjectScam/Content/Blueprints/Weapons/BP_GunWeapon.uasset",
+				"C:/Users/Mike/Documents/GitHub/GAME467/ProjectScam/Content/Data/DataTables/DT_Weapons.uasset",
+				"C:/Users/Mike/Documents/GitHub/GAME467/ProjectScam/Content/Blueprints/HUD/W_HUD.uasset",
+				"C:/Users/Mike/Documents/GitHub/GAME467/ProjectScam/Content/Assets/Materials/Overlays/MI_Overlay_Red.uasset",
+				"C:/Users/Mike/Documents/GitHub/GAME467/ProjectScam/Content/Assets/Materials/Overlays/M_Overlay.uasset",
+				"C:/Users/Mike/Documents/GitHub/GAME467/ProjectScam/Content/Blueprints/Interactables/BPC_Interactable.uasset",
 				"/Users/lastellm/Documents/GitHub/GAME467/ProjectScam/Content/StartContent/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset"
 			]
 		}
